@@ -14,7 +14,7 @@ The folder "Advbox" contains the example tables in their respective files ("CLIE
 The folder "templates" holds the cleaned example tables I use on my code in order to build the migrated versions from. They're named "CLIENTS_template.xlsx" and "PROCESSOS_template.xlsx".
 "README.txt" is this file you're reading. I've also provided a "README-pt.txt" written in PT-BR.
 
-In this repo I will also feature a AIO pyintstaller compiled .exe for ease-of-use and improved deployability.
+In this repo I will also feature a AIO pyintstaller compiled .exe for ease-of-use and improved deployability.  
 (Please disregard Windows Defender as it seems to false flag the file. I just got that as I uploaded it and I already did a file submission to WDSI. Apologies for the inconvenience.)
 
 **3) Documentation**  
