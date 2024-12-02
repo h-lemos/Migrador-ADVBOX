@@ -14,7 +14,7 @@ The folder "Advbox" contains the example tables in their respective files ("CLIE
 The folder "templates" holds the cleaned example tables I use on my code in order to build the migrated versions from. They're named "CLIENTS_template.xlsx" and "PROCESSOS_template.xlsx".
 "README.txt" is this file you're reading. I've also provided a "README-pt.txt" written in PT-BR.
 
-In this repo I will also feature a AIO pyintstaller compiled .exe for ease-of-use and improved deployability. I urge you to use it. You can download the AIO in [releases](https://github.com/h-lemos/Migrador-ADVBOX/releases/tag/Latest) ou [clicking here](https://github.com/h-lemos/Migrador-ADVBOX/releases/download/Latest/migrador.AIO.zip).
+In this repo I will also feature a AIO pyintstaller compiled .exe for ease-of-use and improved deployability. I urge you to use it. You can download the AIO in [releases](https://github.com/h-lemos/Migrador-ADVBOX/releases/tag/Latest) ou [clicking here](https://github.com/h-lemos/Migrador-ADVBOX/releases/download/Latest/migrador.AIO.zip).  
 (Please disregard any false positive Windows Defender may flag from that file. I just got that as I uploaded it and I at a loss at how to fix it.)
 
 **3) Documentation**  
