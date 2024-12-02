@@ -14,7 +14,8 @@ A pasta "Advbox" contém as tabelas de exemplo nos seus respectivos arquivos  ("
 A pasta "templates" possui versões limpas das tabelas de exemplo que eu usei no meu código para construir as tabelas migradas. Eu as nomeei "CLIENTS_template.xlsx" e "PROCESSOS_template.xlsx".
 "README-pt.txt" é isso que você está lendo (em PT-BR). "README.txt", que é automaticamente aberta pelo Github, é esse mesmo conteúdo em inglês.
 
-Nesse repo eu também vou disponibilizar um .exe AIO compilado pelo pyinstaller para facilitar o uso e melhorar a deployabilidade. Eu urjo que o use. Você pode baixar o AIO em [releases](https://github.com/h-lemos/Migrador-ADVBOX/releases/tag/Latest) ou [clicando aqui](https://github.com/h-lemos/Migrador-ADVBOX/releases/download/Latest/migrador.AIO.zip).
+Nesse repo eu também vou disponibilizar um .exe AIO compilado pelo pyinstaller para facilitar o uso e melhorar a deployabilidade. Eu urjo que o use. Você pode baixar o AIO em [releases](https://github.com/h-lemos/Migrador-ADVBOX/releases/tag/Latest) ou [clicando aqui](https://github.com/h-lemos/Migrador-ADVBOX/releases/download/Latest/migrador.AIO.zip).  
+(Por favor desconsidere qualquer falso positivo notificado pelo Windows Defender. Eu acabei de ter esse problema assim que upei o arquivo e ainda não sei como resolver isso.)
 
 **3) Documentação:**  
 Simplesmente rode o AIO migrador.exe, ou migrador.py. Uma GUI vai aparecer requerindo que você entre a localização do arquivo "Backup_de_dados_92577.rar". Ao fazer isso e clicando em OK a aplicação começará a processar os arquivos e irá criar as tabelas finais  "CLIENTS.xlsx" e "PROCESSOS.xlsx" no mesmo diretório onde a aplicação está localizada. Assim que a aplicação concluir sua operação ela deletará qualquer arquivo temporário criado por ela e uma janela de notificação surgirá. Clicando em confirmar irá fechar a GUI e a aplicação como um todo.
